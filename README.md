@@ -1,6 +1,3 @@
-# Poe2-Discord-RED-BOT-cogs
-Just A few commands For the game Path of exile 2 and use Red-BOT From github
-
 ## Setup
 1. Place the poe2.py file in your Red cogs directory
 2. Load the cog: [p]load poe2
